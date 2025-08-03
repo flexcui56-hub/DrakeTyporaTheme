@@ -37,8 +37,8 @@
     --text-font: var(--monospace); /*正文字体*/
     --title-font: var(--monospace); /*标题字体*/
     --latex-font: var(--monospace); /*LaTeX字体(不含英语)*/
-    --text-line-height: 1.6; /*正文行间距*/
-    --code-line-height: 1.6; /*代码块行间距*/
+    --text-line-height: 1.2; /*正文行间距*/
+    --code-line-height: 1.2; /*代码块行间距*/
     --p-spacing: 0.8rem; /*段间距*/
     --file-tree-text-size: 1.1rem; /*文件树大小*/
     --toc-text-size: 1rem; /*大纲大小*/
